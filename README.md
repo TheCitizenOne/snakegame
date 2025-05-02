@@ -7,4 +7,4 @@ A simple, terminal based snake game. Written in Python, for educational reasons.
 - random
 
 # Usage
-Type python snakegame.py to terminal in the directory of game for start it.
+Type `python snakegame.py` to terminal in the directory of game for start it.
