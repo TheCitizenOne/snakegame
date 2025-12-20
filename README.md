@@ -1,3 +1,5 @@
+UPDATE: THIS REPOSITORY HAS BEEN ARCHIVED BY ORDER216, PLEASE DO NOT WAIT ANY UPDATE SOON.
+
 # Snake Game
 A simple, terminal based snake game. Written in Python, for educational reasons. So please don't wait any future update so soon.
 
